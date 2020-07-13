@@ -1,2 +1,10 @@
+# python
 venv/
 __pycache__
+
+# idea
+.idea/
+*.iml
+
+# maven
+target/
