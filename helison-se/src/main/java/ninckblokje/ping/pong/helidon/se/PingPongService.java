@@ -1,4 +1,4 @@
-package ninckblokje.ping.pong;
+package ninckblokje.ping.pong.helidon.se;
 
 import io.helidon.webserver.Routing.Rules;
 

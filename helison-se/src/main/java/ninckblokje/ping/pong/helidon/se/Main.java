@@ -9,7 +9,6 @@ import io.helidon.config.Config;
 import io.helidon.health.HealthSupport;
 import io.helidon.webserver.Routing;
 import io.helidon.webserver.WebServer;
-import ninckblokje.ping.pong.PingPongService;
 
 public final class Main {
 
